@@ -1,0 +1,22 @@
+﻿<ldml><identity><version number="" /><generation date="2018-05-29T14:23:07Z" /><language type="he" /></identity><characters><exemplarCharacters>[\u05D0-\u05EA]</exemplarCharacters><exemplarCharacters type="punctuation">[]</exemplarCharacters><special xmlns:sil="urn://www.sil.org/ldml/0.1"><sil:exemplarCharacters type="wordFormingPunctuation">[\u05BE]</sil:exemplarCharacters><sil:exemplarCharacters type="footnotes">[]</sil:exemplarCharacters><sil:exemplarCharacters type="crossrefs">[]</sil:exemplarCharacters><sil:exemplarCharacters type="verseSegments">[]</sil:exemplarCharacters><sil:exemplarCharacters type="diacritics">[\u0591-\u05A1\u05A3-\u05B9\u05BB-\u05BD\u05BF\u05C1-\u05C4]</sil:exemplarCharacters><sil:exemplarCharacters type="wordBreaks">[]</sil:exemplarCharacters></special></characters><delimiters><special xmlns:sil="urn://www.sil.org/ldml/0.1"><sil:matched-pairs><sil:matched-pair open="(" close=")" paraClose="false" /><sil:matched-pair open="{" close="}" paraClose="false" /><sil:matched-pair open="[" close="]" paraClose="false" /></sil:matched-pairs><sil:quotation-marks paraContinueType="all"><sil:quotationContinue></sil:quotationContinue><sil:quotation open="”" close="“" level="3" /></sil:quotation-marks></special><quotationStart>”</quotationStart><quotationEnd>“</quotationEnd><alternateQuotationStart>’</alternateQuotationStart><alternateQuotationEnd>‘</alternateQuotationEnd></delimiters><layout><orientation><characterOrder>right-to-left</characterOrder></orientation></layout><collations><defaultCollation>standard</defaultCollation><collation type="standard"><cr><![CDATA[&[before 1] [first regular] < א < ב < ג < ד < ה < ו < ז < ח < ט < י < ך << כ < ל < ם << מ < ן << נ < ס < ע < ף << פ < ץ << צ < ק < ר < ש < ת]]></cr><special xmlns:sil="urn://www.sil.org/ldml/0.1"><sil:simple><![CDATA[א
+ב
+ג
+ד
+ה
+ו
+ז
+ח
+ט
+י
+ך כ
+ל
+ם מ
+ן נ
+ס
+ע
+ף פ
+ץ צ
+ק
+ר
+ש
+ת]]></sil:simple></special></collation></collations><special xmlns:sil="urn://www.sil.org/ldml/0.1"><sil:external-resources><sil:font name="SBL Hebrew" /></sil:external-resources></special></ldml>
