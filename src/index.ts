@@ -141,12 +141,16 @@ function run () {
   console.log(`experiment 1 - the 5th character should be "ת", ... was it?`)
   console.log(` ${readyText[startIndex]} -- ${readyText[startIndex] === 'ת' ? 'yes' : 'no'}`)
   if (readyText[startIndex] !== 'ת') throw new Error('failed experiment 1')
+  // ***
+  // => experiment 1 - the 5th character should be "ת", ... was it?
+  // => ת -- yes
 
-  // ו (Vav) 50 characters later
+  // ו (Vav) 49 characters later
   console.log(`experiment 2 - add 50 characters, it should be "ו", ... was it?`)
   console.log(` ${readyText[startIndex + 49]} -- ${readyText[startIndex + 49] === 'ו' ? 'yes' : 'no'}`)
-
-  // console.log(readyText)
+  // ***
+  // => experiment 2 - add 50 characters, it should be "ו", ... was it?
+  // => ה -- no
 }
 
 run()
